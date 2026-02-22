@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/22872595/README.md)
-# TFC Gurman 
+# TFC Gourmet 
 
 <p align="center">
   <img src="https://media.forgecdn.net/avatars/1477/55/638958842662366205.png"/>
@@ -16,7 +16,7 @@
 
 ### 📖 Description
 
-**TFC Gurman** is an expansion mod for TerraFirmaCraft that adds traditional cuisines and gourmet foods from around the world! Experience authentic dishes from Russian, Georgian, Moldovan, Mediterranean, Asian, Middle Eastern, and European cuisines, along with an advanced milk collection and cheese-making system.
+**TFC Gourmet** is an expansion mod for TerraFirmaCraft that adds traditional cuisines and gourmet foods from around the world! Experience authentic dishes from Russian, Georgian, Moldovan, Mediterranean, Asian, Middle Eastern, and European cuisines, along with an advanced milk collection and cheese-making system.
 
 ### ✨ Features
 
